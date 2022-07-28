@@ -8,10 +8,14 @@ ESG stands for Environmental, Social, and Governance and is term used often in t
 Jupyter Notebook, Tableau
 
 ### Language:
-Python
+Python, SQL
 
 ### Libraries:
 pandas, numpy
+
+### Database:
+
+PostgreSQL/pgAdmin4
 
 ### Dataset:
 https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
@@ -19,3 +23,10 @@ https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 ## Visual Representation of Data 
 
 https://public.tableau.com/app/profile/katherine.marcinkowski/viz/ESGCompanyDataBreakdown/ESGDataBreakdown?publish=yes
+
+## Data Mining / Cleaning the Data
+
+## Database Creation 
+Applied data engineering concepts used to create the database in PostgreSQL/pgadmin4. Data analysis is performed on the CSV file exported from the data cleaning already performed using Python in Jupyter. 
+
+
