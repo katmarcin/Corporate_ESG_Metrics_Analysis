@@ -8,7 +8,7 @@ To learn more about MSCI, please visit the following link: https://www.msci.com/
 
 
 ### Tools:
-Jupyter Notebook, Tableau Software
+Jupyter Notebook, Tableau Software, QuickDBD (conceptual diagram)
 
 ### Language:
 Python, SQL
