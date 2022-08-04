@@ -1,8 +1,11 @@
 # Corporate_ESG_Metrics_Analysis
 
-Personal Project: Creating a visual representation of data via Tableau to allow stakeholders and/or non-technical audiences to examine ESG attributes and indicators from over 15,000 companies.
+Personal Project: Creating a visual representation of data via Tableau to allow stakeholders and/or non-technical audiences to examine ESG attributes and indicators from over 15,000 companies, as reported by MSCI. MSCI ESG Ratings are used to measure a company's management of financially relevant ESG risks and opportunities. They are one of the leading providers of ESG-related data for the global investment community.
 
 ESG stands for Environmental, Social, and Governance and is term used often in the corporate space to set a standard of impact that companies can adhere to. ESG is an up-and-coming criteria that many companies are using for investing and screening. For many companies with documented ESG strategies, it is critical to assess and adhere to ESG ratings/scores for compliance purposes.
+
+To learn more about MSCI, please visit the following link: https://www.msci.com/who-we-are/about-us
+
 
 ### Tools:
 Jupyter Notebook, Tableau Software
