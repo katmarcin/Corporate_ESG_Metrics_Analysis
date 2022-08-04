@@ -23,6 +23,10 @@ PostgreSQL/pgAdmin4
 ### Dataset:
 https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
+## Conceptual Diagram of Dataset (for SQL)
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/3706cdec152c642975651b6aa18e56eff9846cf5/images/QuickDBD-export.jpg" width="680" height="440" />
+
 ## Visual Representation of Data 
 
 https://public.tableau.com/app/profile/katherine.marcinkowski/viz/ESGCompanyDataBreakdown/ESGDataBreakdown?publish=yes
