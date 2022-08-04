@@ -23,9 +23,10 @@ PostgreSQL/pgAdmin4
 ### Dataset:
 https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
-## Conceptual Diagram of Dataset (for SQL)
+## Conceptual Diagram of Dataset
+This diagram is used to prepare data importing and table creation in SQL and highlights each column's data type 
 
-<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/3706cdec152c642975651b6aa18e56eff9846cf5/images/QuickDBD-export.jpg" width="680" height="440" />
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/60b45ed33cc27b66f608aa1264e31e107d34cb03/QuickDBD-export.png"  />
 
 ## Visual Representation of Data 
 
