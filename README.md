@@ -4,6 +4,8 @@ Personal Project: Creating a visual representation of data via Tableau to allow 
 
 ESG stands for Environmental, Social, and Governance and is term used often in the corporate space to set a standard of impact that companies can adhere to. ESG is an up-and-coming criteria that many companies are using for investing and screening. For many companies with documented ESG strategies, it is critical to assess and adhere to ESG ratings/scores for compliance purposes.
 
+MSCI rates ESG with letters: ranging from leader (AAA, AA), average (A, BBB, BB) to laggard (B, CCC). 
+
 To learn more about MSCI, please visit the following link: https://www.msci.com/who-we-are/about-us
 
 
