@@ -56,6 +56,6 @@ Data mining and cleaning is performed within Jupyter Notebook using Python coupl
 (insert images)
 
 
-Applied data engineering concepts used to create the database in PostgreSQL/pgadmin4. Data analysis is performed on the CSV file exported from the data cleaning already performed using Python in Jupyter. 
+Applied data engineering concepts used to create the database in PostgreSQL/pgadmin4. Data analysis is performed on the cleaned CSV file exported from the Jupyter. 
 
 
