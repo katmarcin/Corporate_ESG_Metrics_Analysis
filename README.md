@@ -26,7 +26,7 @@ PostgreSQL/pgAdmin4
 https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
 
-## Visual Representation of Data 
+## Visual Representation of Data via Tableau
 
 https://public.tableau.com/app/profile/katherine.marcinkowski/viz/ESGCompanyDataBreakdown/ESGDataBreakdown?publish=yes
 
@@ -45,11 +45,11 @@ c. Treemap: Overall ESG Rating. The following spread highlights the proportions 
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/3706cdec152c642975651b6aa18e56eff9846cf5/images/treemap.jpg" width="680" height="440" />
 
-## Data Mining / Cleaning the Data
+## Data Mining / Cleaning the Data with Python
 
 Data mining and cleaning is performed within Jupyter Notebook using Python coupled with pandas and numpy libraries. 
 
-## Database Creation 
+## Database Creation via PostgreSQL/pgadmin4
 
 
 Applied data engineering concepts to create a database in PostgreSQL/pgadmin4. Data analysis is performed on the cleaned CSV file exported from the Jupyter.
