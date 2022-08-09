@@ -63,10 +63,12 @@ b.  List of US companies in the 'Household & Personal Products' sector in the 'C
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/hpp_ccc.jpg" />
 
 
-c.  List of US companies by sector ascending in the 'CCC' category  (Peloton screenshot)
+c.  List of US companies by sector ascending in the 'CCC' category
+  * Example of a new household name "Peloton" appears in the data. The company appears to have a poor ESG and rating.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/sector_asc_ccc.jpg" />
 
+ * insert in contrast to sustainability marketing etc...
 
 d.  Ascending list of distinct industry sectors in the dataset
 
