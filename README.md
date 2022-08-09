@@ -10,7 +10,7 @@ To learn more about MSCI, please visit the following link: https://www.msci.com/
 
 
 ### Tools:
-Jupyter Notebook, Tableau Software, QuickDBD (conceptual diagram)
+Jupyter Notebook, Tableau Software
 
 ### Language:
 Python, SQL
@@ -25,10 +25,6 @@ PostgreSQL/pgAdmin4
 ### Dataset:
 https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
-## Conceptual Diagram of Dataset
-This diagram is used to prepare data importing and table creation in SQL and highlights each column's data type 
-
-<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/60b45ed33cc27b66f608aa1264e31e107d34cb03/QuickDBD-export.png"  />
 
 ## Visual Representation of Data 
 
