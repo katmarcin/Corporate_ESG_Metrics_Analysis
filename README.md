@@ -51,9 +51,50 @@ Data mining and cleaning is performed within Jupyter Notebook using Python coupl
 
 ## Database Creation 
 
-(insert images)
+
+Applied data engineering concepts to create a database in PostgreSQL/pgadmin4. Data analysis is performed on the cleaned CSV file exported from the Jupyter.
+
+a.  List of US companies with highest overall esg rating (AAA) and score (10)
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/us_aaa_10.jpg" />
+
+b.  List of US companies in the 'Household & Personal Products' sector in the 'CCC' category
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/hpp_ccc.jpg" />
 
 
-Applied data engineering concepts used to create the database in PostgreSQL/pgadmin4. Data analysis is performed on the cleaned CSV file exported from the Jupyter. 
+c.  List of US companies by sector ascending in the 'CCC' category  (Peloton screenshot)
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/sector_asc_ccc.jpg" />
+
+
+d.  Ascending list of distinct industry sectors in the dataset
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/sectors.jpg" />
+
+
+e.  US ESG 'Leaders' 
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/us_leaders.jpg" />
+
+
+f.  US ESG 'Leaders' Count
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/count_us_leaders.jpg" />
+
+
+g.  US ESG 'Average' Companies
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/average_comps.jpg" />
+
+
+h.  US ESG 'Average' Companies Count
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/average_comps_count.jpg" />
+
+i.  US ESG 'Laggards' Count
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/us_laggards_count.jpg" />
+
 
 
