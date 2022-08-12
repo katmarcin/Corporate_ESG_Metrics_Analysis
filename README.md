@@ -64,6 +64,10 @@ a.  List of US companies with highest overall esg rating (AAA) and score (10).
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/us_aaa_10.jpg" />
 
 b.  List of US companies in the 'Household & Personal Products' sector in the 'CCC' category
+* The two companeis that appear within this sector, with the worst score is Revlon Inc and Reynolds Consumer Products. Revlon is widely known for carrying cosmetics and other personal care products. Reynolds Consumer Products' name can be recognized on household items such as aluminum foil "Reynolds Wrap" and another brand it carries "Hefty" for food and storage bags.
+* When you visit the company's website, the first thing you may notice on the header is the 'sustainability' tab.
+
+https://www.reynoldsconsumerproducts.com/sustainability
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/hpp_ccc.jpg" />
 
