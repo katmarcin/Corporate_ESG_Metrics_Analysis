@@ -53,6 +53,10 @@ c. Treemap: Overall ESG Rating. The following spread highlights the proportions 
 
 Data mining and cleaning is performed within Jupyter Notebook using Python coupled with pandas and numpy libraries. 
 
+## Descriptive Statistics via Microsoft Excel / Excel VBA
+
+
+
 ## Database Creation via PostgreSQL/pgadmin4
 
 
