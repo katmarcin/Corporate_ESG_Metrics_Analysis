@@ -59,6 +59,9 @@ a. I modified the dataset in Excel to make it more visually appealing and unders
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/8865e9d0a231e82212d5b804313e8db59e6834be/images/excel_queries/excel.jpg" />
 
+b. I created a box-and-whisker plot to confirm the information I produced in the measures of spread table for overall ESG Score. The table confirms the median is slightly higher than the mean with minimal (negative) skew to the left. This essentially means that si;ghtly more values are concentrated on the right side of the distribution.
+
+
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/0c675e2b4daca187edabee3bbb966a731bf0ce3f/images/excel_queries/bnw.jpg" />
 
 
