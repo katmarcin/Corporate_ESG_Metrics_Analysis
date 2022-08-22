@@ -56,6 +56,18 @@ Data mining and cleaning is performed within Jupyter Notebook using Python coupl
 ## Descriptive Statistics via Microsoft Excel / Excel VBA
 
 
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/8865e9d0a231e82212d5b804313e8db59e6834be/images/excel_queries/excel.jpg" />
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/0c675e2b4daca187edabee3bbb966a731bf0ce3f/images/excel_queries/bnw.jpg" />
+
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/leaders_excel.jpg" />
+
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/average_excel.jpg" />
+
+
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/laggards_excel.jpg" />
 
 ## Database Creation via PostgreSQL/pgadmin4
 
