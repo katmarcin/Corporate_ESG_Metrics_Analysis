@@ -55,6 +55,7 @@ Data mining and cleaning is performed within Jupyter Notebook using Python coupl
 
 ## Descriptive Statistics via Microsoft Excel / Excel VBA
 
+a. I modified the dataset in Excel to make it more visually appealing and understandable. By using conditionals in the columns and creating measures of spread tables, the data itself, as large as it presents, becomes slightly more simplified. I categorized the overall ESG rating by leaders (green), average (yellow), and red (laggards) based on the distinctions established by MSCI. For the measures of spread, I calculated the mean, median, standard deviation, upper and lower quartiles, and IQR of the overall ESG Score and separate scores: environmental, social, and governance. The purpose of doing this is to potray the most important metrics from each score and how it may contribute to the overall ESG Score. From these tables I was able to conclude an overall mean ESG score of 5.14 out of scale of 10, with a median of 5.3. Because the median is slightly larger than the mean, it can be said that there is the data has a very slight skew to the left. For the individual scores, I concluded that environmental score had the highest mean of 5.31, followed by governance score with a value of 4.79 and social score valued at 4.61. This shows that of all the three categories, companies are placing a stronger emphasis on their environmental impact.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/8865e9d0a231e82212d5b804313e8db59e6834be/images/excel_queries/excel.jpg" />
 
