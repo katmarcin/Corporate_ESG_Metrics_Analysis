@@ -34,14 +34,14 @@ https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
 https://public.tableau.com/app/profile/katherine.marcinkowski/viz/ESGCompanyDataBreakdown/ESGDataBreakdown?publish=yes
 
-Utilized Tableau Software to create dynamic visual representations of the data to showcase various ESG attributes and higlight any potential patterns hidden within the data.
+Utilized Tableau Software to create dynamic visual representations of the data to showcase various ESG attributes and highlight potential patterns hidden within the data.
 
 
 a. Average Overall ESG Score by Country Appearance: The US, Japan, and Canada appeared to be the countries most represented by the companies in the dataset. The US exceeds the latter by almost 3x the amount of appearances. The average overall ESG score for each country is listed next to its corresponding bar in the graph.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/3706cdec152c642975651b6aa18e56eff9846cf5/images/country_esg.jpg" width="680" height="440" />
 
-b. Sector Breakdown by Size: Banks, Utilies, and Real Estate Management & Services represent a large portion of the dataset. Corresponding average overall ESG scores for each sector are lsited adjacent to each bar in the graph.
+b. Sector Breakdown by Size: Banks, Utilies, and Real Estate Management & Services represent a large portion of the dataset. Corresponding average overall ESG scores for each sector are listed adjacent to each bar in the graph.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/3706cdec152c642975651b6aa18e56eff9846cf5/images/sector.jpg" width="680" height="440" />
 
@@ -55,19 +55,19 @@ Data mining and cleaning is performed within Jupyter Notebook using Python coupl
 
 ## Descriptive Statistics via Microsoft Excel / Excel VBA
 
-a. I modified the dataset in Excel to make it more visually appealing and understandable. By using conditionals in the columns and creating measures of spread tables, the data itself, as large as it presents, becomes slightly more simplified. I categorized the overall ESG rating by leaders (green), average (yellow), and red (laggards) based on the distinctions established by MSCI. For the measures of spread, I calculated the mean, median, standard deviation, upper and lower quartiles, and IQR of the overall ESG Score and separate scores: environmental, social, and governance. The purpose of doing this is to potray the most important metrics from each score and how it may contribute to the overall ESG Score. From these tables I was able to conclude an overall mean ESG score of 5.14 out of scale of 10, with a median of 5.3. Because the median is slightly larger than the mean, it can be said that there is the data has a very slight skew to the left. For the individual scores, I concluded that environmental score had the highest mean of 5.31, followed by governance score with a value of 4.79 and social score valued at 4.61. This shows that of all the three categories, companies are placing a stronger emphasis on their environmental impact.
+a. I modified the dataset in Excel to make it more visually appealing and understandable. By using conditionals in the columns and creating measures of spread tables, the data itself, as large as it presents, becomes slightly more simplified. I categorized the overall ESG rating by leaders (green), average (yellow), and red (laggards) based on the distinctions established by MSCI. For the measures of spread, I calculated the mean, median, standard deviation, upper and lower quartiles, and IQR of the overall ESG Score and separate scores: environmental, social, and governance. The purpose of doing this is to portray the most important metrics from each score and how it may contribute to the overall ESG Score. From these tables I was able to conclude an overall mean ESG score of 5.14 out of scale of 10, with a median of 5.3. Because the median is slightly larger than the mean, it can be said that there is the data has a very slight skew to the left. For the individual scores, I concluded that environmental score had the highest mean of 5.31, followed by governance score with a value of 4.79 and social score valued at 4.61. This shows that of all the three categories, companies are placing a stronger emphasis on their environmental impact.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/8865e9d0a231e82212d5b804313e8db59e6834be/images/excel_queries/excel.jpg" />
 
-b. I created a box-and-whisker plot to confirm the information I produced in the measures of spread table for overall ESG Score. The table confirms the median is slightly higher than the mean with minimal (negative) skew to the left. This essentially means that si;ghtly more values are concentrated on the right side of the distribution.
+b. I created a box-and-whisker plot to confirm the information I produced in the measures of spread table for overall ESG Score. The table confirms the median is slightly higher than the mean with minimal (negative) skew to the left. This essentially means that slightly more values are concentrated on the right side of the distribution.
 
-
+c. ESG Leaders
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/0c675e2b4daca187edabee3bbb966a731bf0ce3f/images/excel_queries/bnw.jpg" />
 
-
+d. Average ESG Companies
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/leaders_excel.jpg" />
 
-
+e. ESG Laggards
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/average_excel.jpg" />
 
 
