@@ -70,15 +70,18 @@ a. I modified the dataset in Excel to make it more visually appealing and unders
 
 b. I created a box-and-whisker plot to confirm the information I produced in the measures of spread table for overall ESG Score. The table confirms the median is slightly higher than the mean with minimal (negative) skew to the left. This essentially means that slightly more values are concentrated on the right side of the distribution.
 
-c. ESG Leaders
+
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/0c675e2b4daca187edabee3bbb966a731bf0ce3f/images/excel_queries/bnw.jpg" />
 
-d. Average ESG Companies
+c.  ESG Leaders
+
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/leaders_excel.jpg" />
 
-e. ESG Laggards
+d. ESG Average Companies
+
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/average_excel.jpg" />
 
+e. ESG Laggards
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/laggards_excel.jpg" />
 
@@ -103,10 +106,14 @@ https://www.reynoldsconsumerproducts.com/sustainability
 
 c.  List of US companies by sector ascending in the 'CCC' category
   * Example of a new household name "Peloton" appears in the data. The company appears to have a poor ESG and rating.
+  * Peloton, which gained an appearance during the COVID-19 pandemic, is known for its stationary bikes and interactive virtual classes on demand. The company's website has a very minimal page regarding its ESG efforts and it links users to their most recent ESG report. It is without a doubt that Peloton's poor ESG rating stems from materiality of their equipment.
+  * The pattern that repeats among companies with poor ESG ratings is that of low communicability of ESG efforts to users on their main websites. Instead, these companies direct users to their ESG reports, which are often very lengthy and wordy and distract users from actual concrete figures that are direct, easy-to-understand, and marketable. 
+
+
+https://investor.onepeloton.com/esg
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/sector_asc_ccc.jpg" />
 
- * insert in contrast to sustainability marketing etc...
 
 d.  Ascending list of distinct industry sectors in the dataset
 
@@ -135,6 +142,3 @@ h.  US ESG 'Average' Companies Count
 i.  US ESG 'Laggards' Count
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/874f4b25d984309096ef589f172ba836eb7a85a3/images/sql_queries/us_laggards_count.jpg" />
-
-
-
