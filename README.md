@@ -53,13 +53,13 @@ c. Treemap: Overall ESG Rating. The following spread highlights the proportions 
 
 Data mining and cleaning is performed within Jupyter Notebook using Python coupled with pandas and numpy libraries. 
 
-<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/null_formula.jpg" />
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/null_formula.jpg"  width="740" height="300" />
 
 
-<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_head.jpg" />
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_head.jpg"  width="776" height="340" />
 
 
-<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_stats.jpg" />
+<img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_stats.jpg"  width="680" height="340" />
 
 
 ## Descriptive Statistics via Microsoft Excel / Excel VBA
