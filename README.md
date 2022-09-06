@@ -70,25 +70,27 @@ c. Descriptive statistics of the dataset. This information will be used to cross
 
 ## Descriptive Statistics via Microsoft Excel / Excel VBA
 
-a. I modified the dataset in Excel to make it more visually appealing and understandable. By using conditionals in the columns and creating measures of spread tables, the data itself, as large as it presents, becomes slightly more simplified. I categorized the overall ESG rating by leaders (green), average (yellow), and red (laggards) based on the distinctions established by MSCI. For the measures of spread, I calculated the mean, median, standard deviation, upper and lower quartiles, and IQR of the overall ESG Score and separate scores: environmental, social, and governance. The purpose of doing this is to portray the most important metrics from each score and how it may contribute to the overall ESG Score. From these tables I was able to conclude an overall mean ESG score of 5.14 out of scale of 10, with a median of 5.3. Because the median is slightly larger than the mean, it can be said that there is the data has a very slight skew to the left. For the individual scores, I concluded that environmental score had the highest mean of 5.31, followed by governance score with a value of 4.79 and social score valued at 4.61. This shows that of all the three categories, companies are placing a stronger emphasis on their environmental impact.
+a. I modified the dataset in Excel to make it more visually appealing and understandable. By using conditionals in the columns and creating measures of spread tables, the data itself, as large as it presents, becomes slightly more simplified. I categorized the overall ESG rating by leaders (green), average (yellow), and red (laggards) based on the distinctions established by MSCI. For the measures of spread, I calculated the mean, median, standard deviation, upper and lower quartiles, and IQR of the overall ESG Score and separate scores: environmental, social, and governance. The purpose of doing this is to portray the most important metrics from each score and how it may contribute to the overall ESG Score. From these tables I was able to conclude an overall mean ESG score of 5.14 out of scale of 10, with a median of 5.3. Because the median is slightly larger than the mean, it can be said that there is the data has a very slight skew to the left. For the individual scores, I concluded that environmental score had the highest mean of 5.31, followed by governance score with a value of 4.79 and social score valued at 4.61. This shows that of all the three categories, companies are placing a stronger emphasis on their environmental impact.  
 
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/6b301554bfb54dd228f6203bcabe50e91fd82fab/images/excel_queries/excelwithbutton.jpg" />
 
-b. I created a box-and-whisker plot to confirm the information I produced in the measures of spread table for overall ESG Score. The table confirms the median is slightly higher than the mean with minimal (negative) skew to the left. This essentially means that slightly more values are concentrated on the right side of the distribution.
+b. I constructed a formula using Excel VBA to apply specific formatting to highlighted cells with the click of the 'ESG' button. In the above snapchat, the three 3 rows that were selected were highlighted, bolded, and italicized with a click of a button. Macros, or automated tasks in Excel VBA, allow for desired data such as this to stand out from the rest of the dataset.
+
+c. I created a box-and-whisker plot to confirm the information I produced in the measures of spread table for overall ESG Score. The table confirms the median is slightly higher than the mean with minimal (negative) skew to the left. This essentially means that slightly more values are concentrated on the right side of the distribution.
 
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/0c675e2b4daca187edabee3bbb966a731bf0ce3f/images/excel_queries/bnw.jpg" />
 
-c.  ESG Leaders
+d.  ESG Leaders
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/leaders_excel.jpg" />
 
-d. ESG Average Companies
+e. ESG Average Companies
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/average_excel.jpg" />
 
-e. ESG Laggards
+f. ESG Laggards
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/7cfb83c6e253c637ce5815bd4badd9604543c83c/images/excel_queries/laggards_excel.jpg" />
 
