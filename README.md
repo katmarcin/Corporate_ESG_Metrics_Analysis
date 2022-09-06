@@ -107,7 +107,7 @@ https://www.reynoldsconsumerproducts.com/sustainability
 c.  List of US companies by sector ascending in the 'CCC' category
   * Example of a new household name "Peloton" appears in the data. The company appears to have a poor ESG and rating.
   * Peloton, which gained an appearance during the COVID-19 pandemic, is known for its stationary bikes and interactive virtual classes on demand. The company's website has a very minimal page regarding its ESG efforts and it links users to their most recent ESG report. It is without a doubt that Peloton's poor ESG rating stems from materiality of their equipment.
-  * The pattern that repeats among companies with poor ESG ratings is that of low communicability of ESG efforts to users on their main websites. Instead, these companies direct users to their ESG reports, which are often very lengthy and wordy and distract users from actual concrete figures that are direct, easy-to-understand, and marketable. 
+  * The pattern that repeats among companies with poor ESG ratings is that of low communicability of ESG efforts to users on their main websites. Instead, these companies direct users to their ESG reports, which are often very lengthy and wordy and distract users from actual concrete figures. Ideally, ESG metrics and attributes should be marketed in a way that is direct, concise, and grabs users attention through the use of graphics.
 
 
 https://investor.onepeloton.com/esg
