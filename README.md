@@ -63,7 +63,7 @@ b. Snapshot sample of the data after cleaning/mining
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_head.jpg"  width="776" height="340" />
 
 
-c. Descriptive statistics of the dataset. This informatino will be used to cross-check the same function that will be applied in Excel.
+c. Descriptive statistics of the dataset. This information will be used to cross-check the same function that will be applied in Excel.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_stats.jpg"  width="680" height="340" />
 
