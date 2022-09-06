@@ -51,13 +51,19 @@ c. Treemap: Overall ESG Rating. The following spread highlights the proportions 
 
 ## Data Mining / Cleaning the Data with Python
 
-Data mining and cleaning is performed within Jupyter Notebook using Python coupled with pandas and numpy libraries. 
+Data mining and cleaning is performed within Jupyter Notebook using Python coupled with pandas and numpy libraries. Functions for cleaning including dropping unnecessary columns and determining repetitive values in the dataset e.g. unique ESG ratings.
+
+a. Formula for examining null values across the dataset columns
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/null_formula.jpg"  width="740" height="300" />
 
 
+b. Snapshot sample of the data after cleaning/mining
+
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_head.jpg"  width="776" height="340" />
 
+
+c. Descriptive statistics of the dataset. This informatino will be used to cross-check the same function that will be applied in Excel.
 
 <img src="https://github.com/katmarcin/Corporate_ESG_Metrics_Analysis/blob/073425c496768ec1869ba523623865038ff97124/images/df_stats.jpg"  width="680" height="340" />
 
